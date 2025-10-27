@@ -2,7 +2,7 @@
 C++ respository
 
 The purpose of this project was to allow a user to calculate accrued interest and an end-balance for an investment account over a specified time period. 
-This project was very well-documented and adhered to the four concepts of OOP well. The main function required bare minimum to code to operate the program, and class inheritance was solid.
+This project was very well-documented and adhered to the four concepts of OOP well. The main function required bare-minimum code to operate the program, and class inheritance was solid.
 
 Future enhancements to this code could include comprehensive exception handling and improved input validation. 
 
